@@ -1,6 +1,6 @@
 # Saudi-Encyclopedia-Sparql
 
-==Example 1== 
+**Example 1** 
 اسعتادة جميع المحافظات المرتبطة بالصفحة الرئيسية
 
 ```python
